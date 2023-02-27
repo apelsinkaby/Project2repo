@@ -17,5 +17,5 @@ string convert(int* array, int size) {
 		msg += to_string(array[i]) + " ";
 	}
 
-	return msg;
+	return msg; 
 }
